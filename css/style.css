@@ -31,13 +31,13 @@ h2 { font-size:clamp(28px,4vw,42px); letter-spacing:-1.5px; }
 .my-list { border-top:1px solid var(--line); }
 .section-heading { align-items:end; display:flex; justify-content:space-between; margin-bottom:26px; }
 .result-label { color:var(--muted); margin:0; }
-.film-row { display:grid; gap:18px; grid-auto-columns:minmax(170px,1fr); grid-auto-flow:column; overflow-x:auto; padding:4px 2px 20px; scrollbar-color:var(--accent) var(--surface); }
+.film-row { display:grid; gap:18px; grid-auto-columns:150px; grid-auto-flow:column; overflow-x:auto; padding:4px 2px 20px; scrollbar-color:var(--accent) var(--surface); }
 .genre-block + .genre-block { margin-top:42px; }
 .genre-title { font-size:21px; margin:0 0 14px; }
 .film-card { background:var(--surface); border:1px solid transparent; border-radius:8px; overflow:hidden; transition:border-color .2s,transform .2s; }
 .film-card:hover { border-color:var(--accent); transform:translateY(-4px); }
 .poster-button { background:none; border:0; display:block; min-height:0; padding:0; width:100%; }
-.poster { aspect-ratio:2/3; display:block; object-fit:cover; width:100%; }
+.poster { aspect-ratio:2/3; display:block; height:auto; object-fit:cover; width:100%; }
 .card-body { padding:12px; }
 .card-title { font-size:16px; margin:0 0 5px; }
 .card-meta { color:var(--muted); font-size:13px; margin:0; }
