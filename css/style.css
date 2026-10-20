@@ -32,7 +32,6 @@ h2 { font-size:clamp(28px,4vw,42px); letter-spacing:-1.5px; }
 .button-secondary { background:var(--surface-2); color:var(--ink); }
 .catalog,.my-list { margin:0 auto; max-width:1400px; padding:76px clamp(20px,5vw,72px); }
 .catalog-grid { align-items:start; }
-.card-description { color:var(--muted); display:-webkit-box; font-size:12px; line-height:1.4; margin:8px 0 0; overflow:hidden; -webkit-box-orient:vertical; -webkit-line-clamp:3; }
 .my-list { border-top:1px solid var(--line); }
 .section-heading { align-items:end; display:flex; justify-content:space-between; margin-bottom:26px; }
 .result-label { color:var(--muted); margin:0; }
@@ -44,8 +43,7 @@ h2 { font-size:clamp(28px,4vw,42px); letter-spacing:-1.5px; }
 .film-card:hover { border-color:var(--accent); transform:translateY(-4px); }
 .poster-button { background:none; border:0; display:block; min-height:0; padding:0; width:100%; }
 .poster { aspect-ratio:2/3; display:block; height:auto; object-fit:cover; width:100%; }
-.card-body { display:flex; flex-direction:column; min-height:194px; padding:12px; }
-.card-description { min-height:51px; }
+.card-body { display:flex; flex-direction:column; min-height:126px; padding:12px; }
 .card-action { margin-top:auto; }
 .card-title { font-size:16px; margin:0 0 5px; }
 .card-meta { color:var(--muted); font-size:13px; margin:0; }
