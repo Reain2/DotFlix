@@ -1,7 +1,7 @@
 [
   {"id":1,"title":"LOST SIGNAL","year":2026,"genre":["Action"],"synopsis":"","poster":"img/POSTER_ACTION.jpg","trailer":"https://www.youtube.com/embed/tBdMf-Zob3Y","featured":true},
-  {"id":2,"title":"FILM HOROR","year":2026,"genre":["Horror"],"synopsis":"","poster":"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=500&q=80","trailer":"https://www.youtube.com/embed/PPL12ZHhflM","featured":false},
-  {"id":3,"title":"FILM KOMEDI","year":2026,"genre":["Comedy"],"synopsis":"","poster":"https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=500&q=80","trailer":"https://www.youtube.com/embed/wUF0Ty0I4BY","featured":false},
+  {"id":2,"title":"ABSENCE","year":2026,"genre":["Horror"],"synopsis":"","poster":"img/POSTER_HOROR.jpeg","trailer":"https://www.youtube.com/embed/PPL12ZHhflM","featured":false},
+  {"id":3,"title":"RENCANA TAK JELAS","year":2026,"genre":["Comedy"],"synopsis":"","poster":"img/POSTER_KOMEDI.jpeg","trailer":"https://www.youtube.com/embed/wUF0Ty0I4BY","featured":false},
   {"id":4,"title":"HARI BIASA","year":2026,"genre":["Slice of Life"],"synopsis":"","poster":"img/POSTER_SOL.jpg","trailer":"https://www.youtube.com/embed/6mN4IcZ_grI","featured":false},
-  {"id":5,"title":"FILM DRAMA","year":2026,"genre":["Drama"],"synopsis":"","poster":"https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=500&q=80","trailer":"https://www.youtube.com/embed/fxtSKcwrt1E","featured":false}
+  {"id":5,"title":"KAMU YANG DULU DAN SEKARANG","year":2026,"genre":["Drama"],"synopsis":"","poster":"img/POSTER_DRAMA.jpeg","trailer":"https://www.youtube.com/embed/fxtSKcwrt1E","featured":false}
 ]
